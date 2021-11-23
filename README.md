@@ -13,7 +13,7 @@ Web sitesinin içerisinde;
     * [https://getbootstrap.com/docs/4.6/getting-started/introduction/](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
 
-## Siteye ait görseller
+## Siteye Ait Görseller
 
 &nbsp;
 ![EkranAlıntısı1](images/alıntılar/alinti1.png)

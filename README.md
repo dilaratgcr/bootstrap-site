@@ -1,10 +1,10 @@
 # BOOTSTRAP İLE SİTE TASARIMI 
 
-## Bu projede Bootstrap kullanılarak bir web sitesi yapılmıştır.
+ Bu projede Bootstrap kullanılarak bir web sitesi yapılmıştır.
 
-## Sitede bir e-ticaret sitesi görünümüne ulaşılmaya çalışılmıştır.
+Sitede bir e-ticaret sitesi görünümüne ulaşılmaya çalışılmıştır.
 
-## Web sitesinin içerisinde;
+Web sitesinin içerisinde;
 
 - Bootstrap'ın container özelliği kullanılmıştır.
 - Ayrıca yine Bootstrap'ın card, jumbotron ve navbar özellikleri de kullanılmıştır.
